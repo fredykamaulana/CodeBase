@@ -1,5 +1,5 @@
 # CodeBase
-code base project
+code base project made by @fredykamaulana
 
 this project used for create new scratch app
 
